@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "track_timer"
+version = "1.6.2"
+name = "Track Timer"
+tagline = "Billable work-time tracking with auto-pause, steps and reports"
+maintainer = "oToddy.mp4"
+type = "add-on"
+tags = ["3D View", "Timer", "Tracking"]
+blender_version_min = "4.2.0"
+license = ["GPL-3.0-or-later"]
+permissions = ["files"]
+website = "https://github.com/toddydaniel/blender-track-timer"
+copyright = ["2026 oToddy.mp4"]
